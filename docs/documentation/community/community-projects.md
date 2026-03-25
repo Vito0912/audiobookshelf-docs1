@@ -36,7 +36,7 @@ A collection of tools designed to assist with Audiobookshelf-related tasks. Plea
 
 Sync your audiobook reading progress from Audiobookshelf to Hardcover automatically
 
-## [ABS Kosync Brdige](https://github.com/cporcellijr/abs-kosync-bridge)
+## [ABS KoSync Bridge](https://github.com/cporcellijr/abs-kosync-bridge)
 
 ABS-KoSync Enhanced is a powerful synchronization engine that bridges the gap between Audiobookshelf and KOReader. It ensures your reading and listening progress is always perfectly aligned, whether you're on your e-reader or listening on the go.
 
